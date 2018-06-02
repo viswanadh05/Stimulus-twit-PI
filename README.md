@@ -1,5 +1,6 @@
 # Stimulus-twit-PI
-A Minor thesis project 'Reaction to stimulus based on personality'.
+
+This application code is a part of MIT Minor thesis project 'Reaction to stimulus based on personality'.
 
 Step to run the Project..
 1. Install node js in the project folder
@@ -12,4 +13,6 @@ Step to run the Project..
 8. nodemon app.js
 
 Once the app is able to run succesfully, it will show a detailed report of personality insights in command line output.
+
+Extracted personality insights will be used for futher thesis research.
 
