@@ -2,7 +2,13 @@
 
 This application code is a part of MIT Minor thesis project 'Reaction to stimulus based on personality'.
 
-Step to run the Project..
+Project: Reaction to stimulus based on user personality
+
+Team:
+- Viswanadh Bhaskarla
+- Aafia Pathan Khan
+
+Step to run the Project:
 1. Install node js in the project folder
 2. Import the project files
 3. npm install 
