@@ -11,7 +11,7 @@ Clone project respository into local folder and get started.
   3. Node JS
 
 ### Description
-This application code is a practical part of MIT Minor thesis project 'Reaction to stimulus based on personality'.
+This application code is a practical part of MIT Minor thesis research oriented project 'Reaction to stimulus based on personality'. The results and process of this application is further used to develop research, understand user personality based on social media profiles, do quantitative analysis and draw conclusions based on data.
 
 ### Built with
 Node JS, Twitter API, IBM Watson Personality Insights
